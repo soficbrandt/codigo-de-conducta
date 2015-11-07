@@ -37,4 +37,4 @@ La base de este código de conducta fue tomado de:
 [Nodeschool Mexico City](https://github.com/nodeschool/mexicocity/edit/master/codeofconduct.md)
 Les agradecemos por traducir este Código de Conducta y por acercanos a él. 
 
-https://media.giphy.com/media/ToMjGpu0xa3M2nHDKWA/giphy.gif
+![image](http://https://media.giphy.com/media/ToMjGpu0xa3M2nHDKWA/giphy.gif)
