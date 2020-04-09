@@ -20,7 +20,7 @@ conducta abusiva deben obedecer inmediatamente.
 Los patrocinadores y presentadores están también sujetos al código de conducta.
 
 Si un miembro de la comunidad mostrara cualquier conducta abusiva,
-los organizadores de Nodeschool Ciudad de México pueden tomar cualquier acción
+el equipo central de Codeando México pueden tomar cualquier acción
 que crean apropiada, incluyendo avisar llamarle la atención o expulsarlo
 de la comunidad. Si eres víctima de conductas abusivas, ves a otra persona
 que está siendo acosada, o tienes dudas, por favor contacta con el equipo
